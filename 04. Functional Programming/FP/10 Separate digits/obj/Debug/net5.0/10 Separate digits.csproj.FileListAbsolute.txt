@@ -1,0 +1,15 @@
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.exe
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.deps.json
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.dll
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\ref\10 Separate digits.dll
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\bin\Debug\net5.0\10 Separate digits.pdb
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.dll
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\ref\10 Separate digits.dll
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.pdb
+D:\.Vania12a#4\04.Fp\FP\10 Separate digits\obj\Debug\net5.0\10 Separate digits.genruntimeconfig.cache

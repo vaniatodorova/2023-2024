@@ -1,0 +1,15 @@
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.exe
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.deps.json
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.dll
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\ref\07 Recursive method02.dll
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\bin\Debug\net5.0\07 Recursive method02.pdb
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.dll
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\ref\07 Recursive method02.dll
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.pdb
+D:\.Vania12a#4\04.Fp\FP\07 Recursive method02\obj\Debug\net5.0\07 Recursive method02.genruntimeconfig.cache

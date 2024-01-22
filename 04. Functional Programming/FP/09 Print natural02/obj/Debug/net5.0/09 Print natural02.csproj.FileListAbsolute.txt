@@ -1,0 +1,15 @@
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.exe
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.deps.json
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.dll
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\ref\09 Print natural02.dll
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\bin\Debug\net5.0\09 Print natural02.pdb
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.dll
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\ref\09 Print natural02.dll
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.pdb
+D:\.Vania12a#4\04.Fp\FP\09 Print natural02\obj\Debug\net5.0\09 Print natural02.genruntimeconfig.cache

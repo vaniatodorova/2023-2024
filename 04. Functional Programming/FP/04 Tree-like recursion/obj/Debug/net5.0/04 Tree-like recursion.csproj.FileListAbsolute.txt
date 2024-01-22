@@ -1,0 +1,16 @@
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.exe
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.deps.json
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.dll
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\ref\04 Tree-like recursion.dll
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\bin\Debug\net5.0\04 Tree-like recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.csproj.AssemblyReference.cache
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.dll
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\ref\04 Tree-like recursion.dll
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\04 Tree-like recursion\obj\Debug\net5.0\04 Tree-like recursion.genruntimeconfig.cache

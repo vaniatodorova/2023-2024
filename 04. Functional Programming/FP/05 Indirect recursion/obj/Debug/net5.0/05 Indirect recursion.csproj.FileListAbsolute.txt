@@ -1,0 +1,15 @@
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.exe
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.deps.json
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.dll
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\ref\05 Indirect recursion.dll
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\bin\Debug\net5.0\05 Indirect recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.dll
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\ref\05 Indirect recursion.dll
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\05 Indirect recursion\obj\Debug\net5.0\05 Indirect recursion.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.exe
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.deps.json
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.dll
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\ref\11 Get digits.dll
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\bin\Debug\net5.0\11 Get digits.pdb
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.dll
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\ref\11 Get digits.dll
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.pdb
+D:\.Vania12a#4\04.Fp\FP\11 Get digits\obj\Debug\net5.0\11 Get digits.genruntimeconfig.cache

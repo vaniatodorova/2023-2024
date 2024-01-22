@@ -1,0 +1,16 @@
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.exe
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.deps.json
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.runtimeconfig.json
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.runtimeconfig.dev.json
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.dll
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\ref\02 Starting recursion.dll
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\bin\Debug\net5.0\02 Starting recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.csproj.AssemblyReference.cache
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.AssemblyInfoInputs.cache
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.AssemblyInfo.cs
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.dll
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\ref\02 Starting recursion.dll
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.pdb
+D:\.Vania12a#4\04.Fp\FP\02 Starting recursion\obj\Debug\net5.0\02 Starting recursion.genruntimeconfig.cache
