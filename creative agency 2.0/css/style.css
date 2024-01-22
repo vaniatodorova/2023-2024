@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: lato;
+}
+/*
+nav {
+    border:1px solid yellowgreen;
+    padding: 0;
+    text-align:center;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+}
+*/
+
+nav{
+    list-style: none;
+    position: fixed;
+    margin-top: -10px;
+    width: 100%;
+ 
+    font-size: 0;
+    text-align:center;
+    padding:0px;
+  }
+
+nav ul{
+
+    width: 1100px;
+    border: 1px solid brown;
+    margin: 1% auto;
+    left: 0;
+    right: 0;
+    font-family: lato;
+}
+/*
+nav li{
+      width: 200px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+     
+  }
+  */
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    height: 45px;
+    font-size:20px;
+    background: #fff;
+    width: 200px;
+    color: #262626;
+    margin: 4px 4px;
+    text-transform: uppercase;
+    line-height: 45px;
+}
+nav #navigation li a.current{
+    color: #ffffff;
+    background: deeppink;
+ }
+ nav ul li a:hover{
+    background: deeppink;
+    text-decoration: none;
+    color: #fff;
+}
+/*
+#box{
+    width: 100%;
+    height: 100vh;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+}
+#box div{
+    position: relative;
+    height: 100%;
+}
+*/
+main {
+    margin: 0 auto;
+    /*margin-top: 50px;
+    padding-top: 1%;
+    */
+    padding-top: 60px;
+    width: 1100px;
+    border:3px dashed pink;
+}
+
+main section{
+
+    border: 1px dotted orangered;
+  /*  position: relative;
+    width: 1100px;
+    margin: 1% auto;
+    */
+}
+img.centered{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: #262626;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+#about .content h1,
+#portfolio .content h1,
+#services .content h1,
+#contact .content h1{
+    color: #5b5b5b;
+}
+/*
+.content p{
+    line-height: 1.5;
+    margin: auto;
+    color: #000;
+}
+*/
+
+input[type=text], select, textarea {
+    width: 50%; 
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    position: relative;
+  }
+  
+input[type=submit] {
+    background-color: deeppink;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+input[type=submit]:hover {
+    background-color: #8e1857;
+}
+
+
+
+
+/*
+#map{
+    position: absolute;
+    top: 30px;
+    right:-300px;
+}
+*/
+
+/*
+.content{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 40px;
+}
+
+#home .content, #about .content, #portfolio .content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+#contact .content{
+    position: absolute;
+    top:50%;
+}
+#contact .content #form form{
+    position: absolute;
+    top: 60px;
+    left: -30%;
+}
+
+*/
+  /*
+#contact .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  */
+/*
+#services .content ul{
+    margin-top: 50px;
+    left: -80%;
+}
+#services .content a, img, h2, p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+*/
+
+
+/*
+.mapouter{
+    position:relative;
+    height:400px;
+    width:490px;
+    background:#fff;
+}
+#map a{
+    color:#fff !important;
+    position:absolute !important;
+    top:0 !important; 
+    z-index:0 !important;
+}
+.gmap_canvas{
+    overflow:hidden;
+    height:400px;
+    width:490px
+}
+.gmap_canvas iframe{
+    position:relative;
+    z-index:2
+}
+iframe{
+    width: 300px; 
+    height: 260px;
+}
+
+*/

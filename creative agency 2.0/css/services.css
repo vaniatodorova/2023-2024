@@ -1,0 +1,12 @@
+ 
+
+#services .content ul{
+    margin-top: 50px;
+    left: -80%;
+}
+#services .content a, img, h2, p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ 

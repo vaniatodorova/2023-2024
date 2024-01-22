@@ -1,0 +1,33 @@
+#contact form{
+    border:1px solid red;
+   display:inline-block;
+   
+}
+
+#map{
+    border:1px solid blue;
+    
+    right:-300px;
+}
+
+
+#map a{
+    color:#fff !important;
+    position:absolute !important;
+    top:0 !important; 
+    z-index:0 !important;
+}
+.gmap_canvas{
+    overflow:hidden;
+    height:400px;
+    width:490px
+}
+.gmap_canvas iframe{
+    position:relative;
+    z-index:2
+}
+iframe{
+    width: 300px; 
+    height: 260px;
+}
+

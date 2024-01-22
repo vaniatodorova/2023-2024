@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VSL0q2wX60wlU6FmpXWnMhCtqVJh1IFd2nCV1ySKgSY=",
+  "Source": "RestaurantReservingAPI",
+  "BasePath": "_content/RestaurantReservingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
