@@ -1,0 +1,7 @@
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\bin\Debug\04 Maze.exe.config
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\bin\Debug\04 Maze.exe
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\bin\Debug\04 Maze.pdb
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\obj\Debug\04 Maze.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\obj\Debug\04 Maze.exe
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\obj\Debug\04 Maze.pdb
+D:\.Vania12a#4\03.Ads\Ads\04 Maze\obj\Debug\04 Maze.csproj.AssemblyReference.cache

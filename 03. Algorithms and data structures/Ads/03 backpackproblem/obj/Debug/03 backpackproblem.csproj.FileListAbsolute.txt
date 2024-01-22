@@ -1,0 +1,6 @@
+F:\12a\Ads\03 backpackproblem\bin\Debug\03 backpackproblem.exe.config
+F:\12a\Ads\03 backpackproblem\bin\Debug\03 backpackproblem.exe
+F:\12a\Ads\03 backpackproblem\bin\Debug\03 backpackproblem.pdb
+F:\12a\Ads\03 backpackproblem\obj\Debug\03 backpackproblem.csproj.CoreCompileInputs.cache
+F:\12a\Ads\03 backpackproblem\obj\Debug\03 backpackproblem.exe
+F:\12a\Ads\03 backpackproblem\obj\Debug\03 backpackproblem.pdb

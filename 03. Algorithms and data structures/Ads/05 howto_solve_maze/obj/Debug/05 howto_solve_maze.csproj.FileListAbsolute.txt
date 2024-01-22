@@ -1,0 +1,10 @@
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\bin\Debug\05 howto_solve_maze.exe.config
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\bin\Debug\05 howto_solve_maze.exe
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\bin\Debug\05 howto_solve_maze.pdb
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\_05_howto_solve_maze.Form1.resources
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\_05_howto_solve_maze.Properties.Resources.resources
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\05 howto_solve_maze.csproj.GenerateResource.cache
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\05 howto_solve_maze.csproj.CoreCompileInputs.cache
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\05 howto_solve_maze.exe
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\05 howto_solve_maze.pdb
+D:\.Vania12a#4\03.Ads\Ads\05 howto_solve_maze\obj\Debug\05 howto_solve_maze.csproj.AssemblyReference.cache
