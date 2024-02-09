@@ -1,0 +1,86 @@
+body{
+    background-color: #1c1c1c;
+    color: #e3e3e3;
+}
+
+.white{
+    color: #e3e3e3;
+}
+
+.navbar{
+    background-color: #bc86fe;
+    font-family: 'Futura', sans-serif;
+    position: fixed;
+    z-index: 2;
+    overflow-x: hidden;
+    width: 100%;
+
+}
+
+.custom-content{
+    padding-top: 56px;
+}
+
+nav .form-control::placeholder {
+    color: #bc86fe;
+}
+
+.dark{
+    background-color: #101010;
+}
+
+.title {
+    font-size:xx-large;
+}
+
+.description{
+    color:#e3e3e3a6;
+}
+
+.custom-bg{
+    background-color: #1c1c1c;
+}
+
+.custom-border{
+    border: 1px solid #bc86fe;
+}
+
+.tag {
+    background-color: #bc86fe95;
+    border-radius: 24px;
+    box-shadow: #bc86fe95 0 3px 5px -1px, #bc86fe95 0 6px 10px 0, #bc86fe95 0 1px 18px 0;
+    box-sizing: border-box;
+    color: #e3e3e3;
+    display: inline-block;
+    fill: currentcolor;
+    font-size: 14px;
+    fill: currentcolor;
+    padding: 2px 12px;
+    position: relative;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.profile{
+    border-radius: 10px;
+    box-shadow: #bc86fe95 0 3px 5px -1px, #bc86fe95 0 6px 10px 0, #bc86fe95 0 1px 18px 0;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #bc86fe;
+}
+
+.btn-outline-danger{
+    --bs-btn-color: #bc86fe;
+    --bs-btn-border-color: #bc86fe;
+    --bs-btn-hover-color: white;
+    --bs-btn-hover-bg: #bc86fe;
+    --bs-btn-hover-border-color: #bc86fe;
+}
+
+.modal-header{
+    color:#1c1c1c;
+}
