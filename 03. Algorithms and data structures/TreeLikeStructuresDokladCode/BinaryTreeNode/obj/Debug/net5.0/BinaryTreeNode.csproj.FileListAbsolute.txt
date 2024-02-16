@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\ref\BinaryTreeNode.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\bin\Debug\net5.0\BinaryTreeNode.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\ref\BinaryTreeNode.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BinaryTreeNode\obj\Debug\net5.0\BinaryTreeNode.genruntimeconfig.cache

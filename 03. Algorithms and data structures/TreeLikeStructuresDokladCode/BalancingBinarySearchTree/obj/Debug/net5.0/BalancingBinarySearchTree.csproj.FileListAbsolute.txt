@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\ref\BalancingBinarySearchTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\bin\Debug\net5.0\BalancingBinarySearchTree.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\ref\BalancingBinarySearchTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\BalancingBinarySearchTree\obj\Debug\net5.0\BalancingBinarySearchTree.genruntimeconfig.cache

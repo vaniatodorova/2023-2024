@@ -1,0 +1,15 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\ref\TraversalOfABinaryTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\bin\Debug\net5.0\TraversalOfABinaryTree.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\ref\TraversalOfABinaryTree.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\TreeLikeStructuresDokladCode\TraversalOfABinaryTree\obj\Debug\net5.0\TraversalOfABinaryTree.genruntimeconfig.cache
