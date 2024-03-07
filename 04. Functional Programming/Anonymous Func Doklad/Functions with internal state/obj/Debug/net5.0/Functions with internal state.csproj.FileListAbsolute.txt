@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.exe
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.deps.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.runtimeconfig.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\ref\Functions with internal state.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\bin\Debug\net5.0\Functions with internal state.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\ref\Functions with internal state.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Functions with internal state\obj\Debug\net5.0\Functions with internal state.genruntimeconfig.cache

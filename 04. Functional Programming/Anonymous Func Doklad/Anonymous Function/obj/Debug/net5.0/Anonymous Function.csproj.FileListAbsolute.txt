@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.exe
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.deps.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.runtimeconfig.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\ref\Anonymous Function.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\bin\Debug\net5.0\Anonymous Function.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\ref\Anonymous Function.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Anonymous Func Doklad\Anonymous Function\obj\Debug\net5.0\Anonymous Function.genruntimeconfig.cache
