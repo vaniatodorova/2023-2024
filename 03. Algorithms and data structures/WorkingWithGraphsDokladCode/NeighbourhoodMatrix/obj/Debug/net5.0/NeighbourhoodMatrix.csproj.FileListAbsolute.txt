@@ -1,0 +1,15 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\ref\NeighbourhoodMatrix.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\bin\Debug\net5.0\NeighbourhoodMatrix.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\ref\NeighbourhoodMatrix.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodMatrix\obj\Debug\net5.0\NeighbourhoodMatrix.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\ref\NeighbourhoodList.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\bin\Debug\net5.0\NeighbourhoodList.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\ref\NeighbourhoodList.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\NeighbourhoodList\obj\Debug\net5.0\NeighbourhoodList.genruntimeconfig.cache

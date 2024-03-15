@@ -1,0 +1,15 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\ref\DijkstraAlgorithm.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\bin\Debug\net5.0\DijkstraAlgorithm.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\ref\DijkstraAlgorithm.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\DijkstraAlgorithm\obj\Debug\net5.0\DijkstraAlgorithm.genruntimeconfig.cache

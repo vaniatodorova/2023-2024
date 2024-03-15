@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\ref\TraversalGraphWidth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\bin\Debug\net5.0\TraversalGraphWidth.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\ref\TraversalGraphWidth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphWidth\obj\Debug\net5.0\TraversalGraphWidth.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.exe
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.deps.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.runtimeconfig.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\ref\TraversalGraphDepth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\bin\Debug\net5.0\TraversalGraphDepth.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\ref\TraversalGraphDepth.dll
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.pdb
+E:\2023-2024 REPOSITORY\03. Algorithms and data structures\WorkingWithGraphsDokladCode\TraversalGraphDepth\obj\Debug\net5.0\TraversalGraphDepth.genruntimeconfig.cache
