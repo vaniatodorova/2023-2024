@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "abstraction by functions/1.0.0": {
+        "runtime": {
+          "abstraction by functions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstraction by functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

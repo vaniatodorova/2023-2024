@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.exe
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.deps.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.runtimeconfig.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\ref\abstraction by functions.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\bin\Debug\net5.0\abstraction by functions.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\ref\abstraction by functions.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\abstraction by functions\obj\Debug\net5.0\abstraction by functions.genruntimeconfig.cache

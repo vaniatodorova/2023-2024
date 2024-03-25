@@ -1,0 +1,16 @@
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.exe
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.deps.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.runtimeconfig.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\ref\calculations on lists.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\bin\Debug\net5.0\calculations on lists.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\ref\calculations on lists.dll
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.pdb
+E:\2023-2024 REPOSITORY\04. Functional Programming\Abstract Func Doklad\calculations on lists\obj\Debug\net5.0\calculations on lists.genruntimeconfig.cache
