@@ -36,7 +36,6 @@ namespace abstraction_by_functions
             {
                 Console.WriteLine(num);
             }
-
         }
     }
 }
