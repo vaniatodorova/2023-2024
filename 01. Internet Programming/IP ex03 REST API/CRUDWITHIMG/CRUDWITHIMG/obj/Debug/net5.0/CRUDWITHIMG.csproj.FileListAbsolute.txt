@@ -1,0 +1,174 @@
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\appsettings.Development.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\appsettings.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.exe
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.deps.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\ref\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Humanizer.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.MvcApplicationPartsAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.Manifest.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.xml
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\scopedcss\bundle\CRUDWITHIMG.styles.css
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.input.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.output.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorCoreGenerate.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorTargetAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorTargetAssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.Views.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.CopyComplete
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\ref\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.genruntimeconfig.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Mvc.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Razor.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Helpers.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\appsettings.Development.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\appsettings.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.exe
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.deps.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.dev.json
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\ref\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Humanizer.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Mvc.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Razor.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.Helpers.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Web.WebPages.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.AssemblyReference.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.AssemblyInfoInputs.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.AssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.CoreCompileInputs.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.MvcApplicationPartsAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.Manifest.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.xml
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\scopedcss\bundle\CRUDWITHIMG.styles.css
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.input.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.output.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorCoreGenerate.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorTargetAssemblyInfo.cache
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorTargetAssemblyInfo.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.Views.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.CopyComplete
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\ref\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.pdb
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex03 REST API\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.genruntimeconfig.cache

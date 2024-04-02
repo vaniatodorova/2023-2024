@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "CoROk68dfu+MRnQJ6VTJR4yLiZlmXIPsCQUNA+vVWqA=",
+  "Source": "CRUDWITHEF",
+  "BasePath": "_content/CRUDWITHEF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUDWITHEF\\wwwroot",
+      "Source": "CRUDWITHEF",
+      "ContentRoot": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\IP ex03 REST API\\RestaurantReservingAPI\\RestaurantReservingAPI\\wwwroot\\",
+      "BasePath": "_content/CRUDWITHEF",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\IP ex03 REST API\\RestaurantReservingAPI\\RestaurantReservingAPI\\wwwroot\\images\\20240403003835725_Screenshot_19.png",
+      "SourceId": "CRUDWITHEF",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\IP ex03 REST API\\RestaurantReservingAPI\\RestaurantReservingAPI\\wwwroot\\",
+      "BasePath": "_content/CRUDWITHEF",
+      "RelativePath": "images/20240403003835725_Screenshot_19.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20240403003835725_Screenshot_19.png"
+    },
+    {
+      "Identity": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\IP ex03 REST API\\RestaurantReservingAPI\\RestaurantReservingAPI\\wwwroot\\images\\20240403004342730_Screenshot_20.png",
+      "SourceId": "CRUDWITHEF",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\IP ex03 REST API\\RestaurantReservingAPI\\RestaurantReservingAPI\\wwwroot\\",
+      "BasePath": "_content/CRUDWITHEF",
+      "RelativePath": "images/20240403004342730_Screenshot_20.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20240403004342730_Screenshot_20.png"
+    }
+  ]
+}

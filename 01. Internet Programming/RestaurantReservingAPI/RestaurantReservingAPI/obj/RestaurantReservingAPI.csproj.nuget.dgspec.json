@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.Vania12a#4\\01.InternetProgramming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj": {}
+    "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj": {}
   },
   "projects": {
-    "E:\\.Vania12a#4\\01.InternetProgramming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj": {
+    "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.Vania12a#4\\01.InternetProgramming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj",
+        "projectUniqueName": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj",
         "projectName": "RestaurantReservingAPI",
-        "projectPath": "E:\\.Vania12a#4\\01.InternetProgramming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj",
+        "projectPath": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\RestaurantReservingAPI\\RestaurantReservingAPI\\RestaurantReservingAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\.Vania12a#4\\01.InternetProgramming\\RestaurantReservingAPI\\RestaurantReservingAPI\\obj\\",
+        "outputPath": "E:\\2023-2024 REPOSITORY\\01. Internet Programming\\RestaurantReservingAPI\\RestaurantReservingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,40 +39,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
