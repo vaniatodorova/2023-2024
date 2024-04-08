@@ -29,7 +29,7 @@ namespace abstraction_by_functions
             int[] numbers = { 1, 2, 3, 4, 5 };
 
             // Прилагане на абстракция чрез функции
-            int[] doubledNumbers = FunctionalAbstraction.ApplyFunction(numbers, FunctionalAbstraction.Double);
+            int[] doubledNumbers = FunctionalAbstraction.ApplyFunction(numbers, x => FunctionalAbstraction.Double(x));
 
             Console.WriteLine("Doubled numbers:");
             foreach (int num in doubledNumbers)

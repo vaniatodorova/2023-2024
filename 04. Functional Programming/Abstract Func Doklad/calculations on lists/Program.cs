@@ -9,15 +9,13 @@ namespace calculations_on_lists
         // Функция, която събира всички числа в даден списък
         public static int Sum(List<int> numbers)
         {
-            Func<List<int>, int> sumFunc = (nums) => nums.Sum();
-            return sumFunc(numbers);
+            return numbers.Sum();
         }
 
         // Функция, която намира средното аритметично на числата в даден списък
         public static double Average(List<int> numbers)
         {
-            Func<List<int>, double> averageFunc = (nums) => nums.Average();
-            return averageFunc(numbers);
+            return numbers.Average();
         }
     }
 
