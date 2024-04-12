@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ux5+sq55jj+ulz1EgMgXd2zylFg4mSl1rdawpMcMpjc=",
+  "Source": "ProductApi",
+  "BasePath": "_content/ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductApi\\wwwroot",
+      "Source": "ProductApi",
+      "ContentRoot": "E:\\2023-2024 REPOSITORY\\Practice-12a\\03 - rest api\\ProductApi\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
