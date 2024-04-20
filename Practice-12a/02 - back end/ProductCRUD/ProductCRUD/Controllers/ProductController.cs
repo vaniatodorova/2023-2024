@@ -29,6 +29,12 @@ namespace ProductCRUD.Controllers
             return View(_context.Products.ToList());
         }
 
+        //GET: Admin
+        public IActionResult Admin()
+        {
+            return View(_context.Products.ToList());
+        }
+
         [AllowAnonymous]
         // GET: Product/Details/5
         public IActionResult Details(int? id)
@@ -83,7 +89,7 @@ namespace ProductCRUD.Controllers
 
                 _context.Products.Add(emp);
                 _context.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
 
             return View(emp);
@@ -148,7 +154,7 @@ namespace ProductCRUD.Controllers
                 _context.Entry(existingProduct).State = EntityState.Modified;
                 _context.SaveChanges();
 
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin");
             }
 
             return View(emp);
@@ -179,7 +185,7 @@ namespace ProductCRUD.Controllers
             var product = _context.Products.Find(id);
             _context.Products.Remove(product);
             _context.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin");
         }
 
         protected override void Dispose(bool disposing)

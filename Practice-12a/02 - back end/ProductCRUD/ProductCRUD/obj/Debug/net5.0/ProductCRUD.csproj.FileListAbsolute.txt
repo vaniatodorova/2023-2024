@@ -78,3 +78,4 @@ E:\2023-2024 REPOSITORY\Practice-12a\02 - back end\ProductCRUD\ProductCRUD\obj\D
 E:\2023-2024 REPOSITORY\Practice-12a\02 - back end\ProductCRUD\ProductCRUD\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 E:\2023-2024 REPOSITORY\Practice-12a\02 - back end\ProductCRUD\ProductCRUD\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
 E:\2023-2024 REPOSITORY\Practice-12a\02 - back end\ProductCRUD\ProductCRUD\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+E:\2023-2024 REPOSITORY\Practice-12a\02 - back end\ProductCRUD\ProductCRUD\obj\Debug\net5.0\Razor\Views\Product\Admin.cshtml.g.cs
