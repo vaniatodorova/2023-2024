@@ -127,21 +127,20 @@ namespace CRUDWITHIMG.Controllers
 
                 if (file != null && file.Length > 0)
                 {
-                    string filename = Path.GetFileName(file.FileName);
-                    string _filename = DateTime.Now.ToString("yyyyMMddHHmmssfff") + "_" + filename;
-                    string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", _filename);
-                    emp.Empimg = "~/images/" + _filename;
+                    // Generate a unique filename to avoid conflicts
+                    string uniqueFileName = $"{Guid.NewGuid().ToString()}_{Path.GetFileName(file.FileName)}";
+                    string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", uniqueFileName);
 
-                    using (var stream = new FileStream(path, FileMode.Create))
+                    using (var stream = new FileStream(uploadPath, FileMode.Create))
                     {
                         file.CopyTo(stream);
                     }
-                }
-                else
-                {
-                    emp.Empimg = existingEmployee.Empimg; // Retain existing image path
+
+                    // Update the employee's image path
+                    existingEmployee.Empimg = $"/images/{uniqueFileName}";
                 }
 
+                // Update other properties
                 existingEmployee.Empcode = emp.Empcode;
                 existingEmployee.Empname = emp.Empname;
                 existingEmployee.Designation = emp.Designation;
@@ -153,6 +152,7 @@ namespace CRUDWITHIMG.Controllers
                 return RedirectToAction("Index");
             }
 
+            // If ModelState is not valid, return the view with the existing employee object
             return View(emp);
         }
 

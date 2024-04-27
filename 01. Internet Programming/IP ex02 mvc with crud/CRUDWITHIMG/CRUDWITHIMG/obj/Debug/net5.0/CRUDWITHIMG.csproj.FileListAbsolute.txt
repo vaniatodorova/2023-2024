@@ -5,7 +5,6 @@ E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHI
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.json
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.runtimeconfig.dev.json
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.dll
-E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\ref\CRUDWITHIMG.dll
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.pdb
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.dll
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\CRUDWITHIMG.Views.pdb
@@ -47,7 +46,6 @@ E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHI
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cache
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.RazorAssemblyInfo.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.Manifest.cache
-E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.xml
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\scopedcss\bundle\CRUDWITHIMG.styles.css
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.input.cache
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.TagHelpers.output.cache
@@ -85,3 +83,5 @@ E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHI
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\ref\CRUDWITHIMG.dll
+E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\staticwebassets\CRUDWITHIMG.StaticWebAssets.xml

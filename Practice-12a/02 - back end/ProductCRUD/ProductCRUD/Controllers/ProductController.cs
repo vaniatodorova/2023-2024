@@ -132,19 +132,16 @@ namespace ProductCRUD.Controllers
 
                 if (file != null && file.Length > 0)
                 {
-                    string filename = Path.GetFileName(file.FileName);
-                    string _filename = DateTime.Now.ToString("yyyyMMddHHmmssfff") + "_" + filename;
-                    string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", _filename);
-                    emp.Image = "~/images/" + _filename;
+                    // Generate a unique filename to avoid conflicts
+                    string uniqueFileName = $"{Guid.NewGuid().ToString()}_{Path.GetFileName(file.FileName)}";
+                    string uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", uniqueFileName);
 
-                    using (var stream = new FileStream(path, FileMode.Create))
+                    using (var stream = new FileStream(uploadPath, FileMode.Create))
                     {
                         file.CopyTo(stream);
                     }
-                }
-                else
-                {
-                    emp.Image = existingProduct.Image; // Retain existing image path
+                    // Update the product's image path
+                    existingProduct.Image = $"/images/{uniqueFileName}";
                 }
 
                 existingProduct.Name = emp.Name;
@@ -156,7 +153,7 @@ namespace ProductCRUD.Controllers
 
                 return RedirectToAction("Admin");
             }
-
+            // If ModelState is not valid, return the view with the existing product object
             return View(emp);
         }
 
