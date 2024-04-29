@@ -77,7 +77,6 @@ E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHI
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
-E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\CRUDWITHIMG.csproj.AssemblyReference.cache
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 E:\2023-2024 REPOSITORY\01. Internet Programming\IP ex02 mvc with crud\CRUDWITHIMG\CRUDWITHIMG\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
